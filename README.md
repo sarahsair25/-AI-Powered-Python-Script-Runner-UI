@@ -1,6 +1,6 @@
 # 🤖 AI Automation Pipeline
 
-A production-ready Python framework that **scrapes the web**, **analyses content with GPT-4o**, **generates HTML intelligence reports**, and **delivers them via Email & Slack** — fully automated, on a schedule.
+A production-ready Python framework that **scrapes the web**, **analyses content with GPT-4o**, **generates HTML intelligence reports**, and **delivers them via Email & Slack**  fully automated, on a schedule.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
